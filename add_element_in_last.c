@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-
-
 char *add_char(char *str,char last)
 {
 	int i=0;
